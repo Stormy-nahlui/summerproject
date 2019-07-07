@@ -1,0 +1,22 @@
+{
+  "name": "summerproject",
+  "version": "0.1.0",
+  "description": "the goal is to make a basic website that has some simple functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stormy-nahlui/summerproject.git"
+  },
+  "author": "Nahlakinnavongsa52@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Stormy-nahlui/summerproject/issues"
+  },
+  "homepage": "https://github.com/Stormy-nahlui/summerproject#readme",
+  "dependencies": {
+    "fortnite": "^4.3.2"
+  }
+}
