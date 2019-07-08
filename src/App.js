@@ -46,7 +46,7 @@ function App() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" color="inherit">
-            Team Silent
+            Team-Silent.com
           </Typography>
         </Toolbar>
       </AppBar>
